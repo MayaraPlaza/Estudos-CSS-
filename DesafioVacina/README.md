@@ -1,8 +1,6 @@
 # Desafio JavaScript - Painéis Flexíveis - Vacina
 
-- com paineis flexiveis: 
-
-![image](https://user-images.githubusercontent.com/74818185/228921283-0b560636-78cd-4580-899f-a7bdfeb4decd.png)
+![Paineis Flexiveis](./captured.gif?raw=true "Paineis Flexiveis")
 
 * [Link para o desafio](https://lizvidotti91.github.io/desafio-30-dias-js/Dia%205/index.html); 
 
