@@ -1,6 +1,6 @@
 # Estudos-CSS-
 
-Aprendendo sobre seletores, propriedades, box model, layout responsivo, floats e posicionamento de elementos.
+Aprendendo sobre seletores, propriedades, box model, layout responsivo, animações, transições, floats e posicionamento de elementos.
 
 Clique abaixo para visualizar alguns dos projetos deste repositorio:
 
